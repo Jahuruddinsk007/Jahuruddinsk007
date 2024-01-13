@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jahuruddin</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+<h3 align="center">I'm a passionate Full Software Developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" />
 
 
