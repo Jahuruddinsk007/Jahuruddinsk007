@@ -7,9 +7,8 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Angular E-commerce](https://github.com/Jahuruddinsk007/Ecommerce)**
-
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🔭 I’m a Java Full stack Developer with Angular.
+- 🌱 I’m currently working at **ABC Company** in Chennai.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -58,7 +57,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Jahuruddinsk007/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Jahuruddinsk007&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Jahuruddinsk007/github-readme-activity-graph"><img alt="Jahuruddin Sk's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Jahuruddinsk007&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
